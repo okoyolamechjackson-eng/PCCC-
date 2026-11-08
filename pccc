@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Panyadoli Central Church Choir - Kiryandongo</title>
+<style>
+body{margin:0;font-family:Arial,sans-serif;background:#0f0f0f;color:#fff}
+header{background:#000;padding:15px;display:flex;align-items:center;border-bottom:3px solid #d4af37}
+header img{width:70px;height:70px;border-radius:50%;border:2px solid #d4af37}
+header div{margin-left:15px}
+header h1{margin:0;color:#d4af37;font-size:18px}
+header p{margin:2px 0;color:#ccc;font-size:12px}
+.hero{background:#1a1a1a;text-align:center;padding:50px 20px}
+.hero h2{color:#ffd700;font-size:28px;line-height:1.3}
+.hero span{color:#d4af37}
+.btn{display:inline-block;margin:8px;padding:10px 18px;border:1px solid #d4af37;color:#d4af37;text-decoration:none}
+.btn:hover{background:#d4af37;color:#000}
+.section{padding:20px}
+.section-title{background:#d4af37;color:#000;padding:10px;font-weight:bold;margin:20px 0}
+.audio-box,.lyric-box,.contact-box{background:#1e1e1e;padding:15px;margin-bottom:15px;border:1px solid #333}
+audio{width:100%;margin-top:10px}
+.video-grid{display:grid;grid-template-columns:1fr 1fr;gap:15px}
+.video{aspect-ratio:16/9;background:#222;display:flex;align-items:center;justify-content:center;border:1px solid #444}
+.bible-frame{width:100%;height:600px;border:none;background:#fff}
+footer{background:#000;text-align:center;padding:20px;color:#888;border-top:2px solid #d4af37}
+a{color:#d4af37}
+</style>
+</head>
+<body>
+
+<header>
+<img src="logo.jpg" alt="PCCC Logo">
+<div>
+<h1>PANYADOLI SDA CENTRAL CHURCH CHOIR</h1>
+<p>Address: Kiryandongo refugee camp 4km from town | Email: okoyolamechjackson@gmail.com | Tel: +256762505573</p>
+<p><i>"I WILL PRAISE THE LORD AS LONG AS I LIVE" - PSALMS 146:2</i></p>
+</div>
+</header>
+
+<div class="hero">
+<h2>I WILL PRAISE THE LORD<br>AS LONG AS I LIVE<br><span style="font-size:18px">PSALMS 146:2</span></h2>
+<p>Welcome to Panyadoli Central Church Choir Official Website</p>
+<p>We spread the Gospel through worship from Kiryandongo Refugee Settlement</p>
+<a class="btn" href="#audios">AUDIOS</a>
+<a class="btn" href="#videos">VIDEOS</a>
+<a class="btn" href="#lyrics">LYRICS</a>
+<a class="btn" href="#bible">HOLY BIBLE KJV</a>
+</div>
+
+<div class="section">
+<div class="section-title" id="audios">🎵 LATEST AUDIOS</div>
+
+<div class="audio-box">
+<h3>Praise Song 1 - Panyadoli Choir</h3>
+<audio controls><source src="audio1.mp3" type="audio/mpeg">Your browser does not support audio.</audio>
+<p><a href="audio1.mp3" download>⬇ Download</a> | <a href="#lyrics">📝 View Lyrics</a></p>
+</div>
+
+<div class="audio-box">
+<h3>Praise Song 2 - Panyadoli Choir</h3>
+<audio controls><source src="audio2.mp3" type="audio/mpeg"></audio>
+<p><a href="audio2.mp3" download>⬇ Download</a></p>
+</div>
+
+<div class="audio-box">
+<h3>Praise Song 3 - Panyadoli Choir</h3>
+<audio controls><source src="audio3.mp3" type="audio/mpeg"></audio>
+<p><a href="audio3.mp3" download>⬇ Download</a></p>
+</div>
+
+<div class="section-title" id="videos">🎬 LATEST VIDEOS</div>
+<div class="video-grid">
+<div class="video">Replace with YouTube: &lt;iframe src="https://www.youtube
